@@ -150,58 +150,60 @@ The project is modular and divided into functional layers:
 ---
 
 # 📁 Proper GitHub File Structure
+TIME-STAMPED-SENSOR-LOGGER-DATA
 TIME-STAMPED-SENSOR-LOGGER/
 │
 ├── README.md
 │
 ├── MAINPROJECT/
-│ │
-│ ├── mainproject.c
-│ │
-│ ├── adc/
-│ │ ├── adc.c
-│ │ ├── adc.h
-│ │ └── adc_defines.h
-│ │
-│ ├── rtc/
-│ │ ├── rtc.c
-│ │ ├── rtc.h
-│ │ └── rtc_defines.h
-│ │
-│ ├── lcd/
-│ │ ├── lcd.c
-│ │ └── lcd.h
-│ │
-│ ├── keypad/
-│ │ ├── keypad.c
-│ │ ├── keypad.h
-│ │ └── KeyPdDefines.h
-│ │
-│ ├── lm35/
-│ │ ├── lm35.c
-│ │ └── lm35.h
-│ │
-│ ├── uart/
-│ │ ├── uart.c
-│ │ └── uart.h
-│ │
-│ ├── display/
-│ │ ├── display.c
-│ │ └── display.h
-│ │
-│ ├── editmode/
-│ │ ├── editmode.c
-│ │ └── editmode.h
-│ │
-│ ├── alert_sys/
-│ │ ├── alert_sys.c
-│ │ └── alert_sys.h
-│ │
-│ ├── defines/
-│ │ └── defines.h
-│ │
-│ └── types/
-│ └── types.h
+│   │
+│   ├── mainproject.c
+│   │
+│   ├── adc/
+│   │   ├── adc.c
+│   │   ├── adc.h
+│   │   └── adc_defines.h
+│   │
+│   ├── rtc/
+│   │   ├── rtc.c
+│   │   ├── rtc.h
+│   │   └── rtc_defines.h
+│   │
+│   ├── lcd/
+│   │   ├── lcd.c
+│   │   └── lcd.h
+│   │
+│   ├── keypad/
+│   │   ├── keypad.c
+│   │   ├── keypad.h
+│   │   └── KeyPdDefines.h
+│   │
+│   ├── lm35/
+│   │   ├── lm35.c
+│   │   └── lm35.h
+│   │
+│   ├── uart/
+│   │   ├── uart.c
+│   │   └── uart.h
+│   │
+│   ├── display/
+│   │   ├── display.c
+│   │   └── display.h
+│   │
+│   ├── editmode/
+│   │   ├── editmode.c
+│   │   └── editmode.h
+│   │
+│   ├── alert_sys/
+│   │   ├── alert_sys.c
+│   │   └── alert_sys.h
+│   │
+│   ├── defines/
+│   │   └── defines.h
+│   │
+│   └── types/
+│       └── types.h
+
 
 ---
 
