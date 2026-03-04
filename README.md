@@ -18,6 +18,16 @@ The system also supports:
 - Edit mode for configuration
 
 ---
+## Objective
+
+- Monitor and record sensor data in real-time with accurate timestamps.  
+- Display sensor readings on an LCD for easy viewing.  
+- Allow user interaction and configuration via keypad.  
+- Trigger alerts when sensor readings exceed predefined thresholds.  
+- Maintain a reliable log for data analysis and monitoring.  
+
+---
+
 
 ## 🚀 Features
 
@@ -149,59 +159,58 @@ The project is modular and divided into functional layers:
 
 ---
 
-# 📁 Proper GitHub File Structure
+# 📁 Proper  File Structure
 TIME-STAMPED-SENSOR-LOGGER-DATA
 TIME-STAMPED-SENSOR-LOGGER/
-│
+
 ├── README.md
 │
 ├── MAINPROJECT/
-│   │
-│   ├── mainproject.c
-│   │
-│   ├── adc/
-│   │   ├── adc.c
-│   │   ├── adc.h
-│   │   └── adc_defines.h
-│   │
-│   ├── rtc/
-│   │   ├── rtc.c
-│   │   ├── rtc.h
-│   │   └── rtc_defines.h
-│   │
-│   ├── lcd/
-│   │   ├── lcd.c
-│   │   └── lcd.h
-│   │
-│   ├── keypad/
-│   │   ├── keypad.c
-│   │   ├── keypad.h
-│   │   └── KeyPdDefines.h
-│   │
-│   ├── lm35/
-│   │   ├── lm35.c
-│   │   └── lm35.h
-│   │
-│   ├── uart/
-│   │   ├── uart.c
-│   │   └── uart.h
-│   │
-│   ├── display/
-│   │   ├── display.c
-│   │   └── display.h
-│   │
-│   ├── editmode/
-│   │   ├── editmode.c
-│   │   └── editmode.h
-│   │
-│   ├── alert_sys/
-│   │   ├── alert_sys.c
-│   │   └── alert_sys.h
-│   │
-│   ├── defines/
-│   │   └── defines.h
-│   │
-│   └── types/
+├── mainproject.c
+│   
+├── adc/
+│   ├── adc.c
+│   ├── adc.h
+│   └── adc_defines.h
+│   
+├── rtc/
+│   ├── rtc.c
+│   ├── rtc.h
+│   └── rtc_defines.h
+│   
+├── lcd/
+│   ├── lcd.c
+│   └── lcd.h
+│  
+├── keypad/
+│   ├── keypad.c
+│   ├── keypad.h
+│   └── KeyPdDefines.h
+│   
+├── lm35/
+│   ├── lm35.c
+│   └── lm35.h
+│   
+├── uart/
+│   ├── uart.c
+│   └── uart.h
+│   
+├── display/
+│   ├── display.c
+│   └── display.h
+│   
+├── editmode/
+│   ├── editmode.c
+│   └── editmode.h
+│   
+├── alert_sys/
+│   ├── alert_sys.c
+│   └── alert_sys.h
+│  
+├── defines/
+│   └── defines.h
+│  
+|└── types/
 │       └── types.h
 
 
