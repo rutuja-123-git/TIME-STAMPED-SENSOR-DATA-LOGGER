@@ -301,14 +301,14 @@ The following results were captured during testing:
 <img width="1600" height="847" alt=" startup Screen" src="C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.05.47 PM.jpeg"/>
 
 ### 🔹 Menu Interface Screen  
-<img width="1600" height="832" alt="Menu Interface" src=""C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.05.47 PM.jpeg"/>
+<img width="1600" height="832" alt="Menu Interface" src="C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.05.47 PM.jpeg"/>
 
 ---
 ### 🔹 RTC Update Screen  
-<img width="1600" height="828" alt="RTC Update Screen" src=""C:\Users\ASUS\Downloads\RTC UPDATE.jpeg"" />
+<img width="1600" height="828" alt="RTC Update Screen" src="C:\Users\ASUS\Downloads\RTC UPDATE.jpeg" />
 
 ### 🔹 Alert Message on UART and LED ON 
-<img width="1600" height="836" alt="Temperature Logging" src=" />
+<img width="1600" height="836" alt="Temperature Logging" src="C:\Users\ASUS\Downloads\WhatsApp Image 2026-03-04 at 12.07.32 PM.jpeg" />
 
 
 ---
